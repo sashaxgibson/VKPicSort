@@ -1,7 +1,7 @@
 {
-  "name": "VkRaskidatPik4i",
-  "description": "Porjadok!",
-  "version": "0.0.1",
+  "name": "VKPicSort",
+  "description": "Расширение для сортировки фотографий на vk.com",
+  "version": "0.1",
   "manifest_version": 3,
   "content_scripts": [
   {
