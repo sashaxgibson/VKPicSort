@@ -1,2 +1,2 @@
 // content.js
-alert("Hello from your Chrome extension!")
+alert("Hello, ti Pidor!")
